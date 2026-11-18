@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.potentiamotus.fleetmanager",
+      "sha256_cert_fingerprints": [
+        "FA:81:5F:B5:F7:68:D9:DE:39:D4:DF:EC:06:50:39:EB:A5:6F:10:3A:4F:F0:FA:5C:D5:07:CB:EA:36:39:6E:63"
+      ]
+    }
+  }
+]
